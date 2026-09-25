@@ -1,0 +1,26 @@
+[
+  {
+    "fila": 7,
+    "error": "could not convert string to float: 'N/A'",
+    "datos": {
+      "fecha": "2024-03-15",
+      "producto": "Auriculares BT",
+      "categoria": "electrónica",
+      "cantidad": "4",
+      "precio_unitario": "N/A",
+      "cliente": "Jorge Díaz"
+    }
+  },
+  {
+    "fila": 9,
+    "error": "Producto vacío",
+    "datos": {
+      "fecha": "2024-03-15",
+      "producto": "",
+      "categoria": "ropa",
+      "cantidad": "3",
+      "precio_unitario": "34.99",
+      "cliente": "Carlos Ruiz"
+    }
+  }
+]
